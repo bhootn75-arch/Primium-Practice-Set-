@@ -1,0 +1,7 @@
+{
+  "name": "Santali Smart Study Practice Set",
+  "description": "Native Android Practice Set Maker, Mock Test and Quick Revision app by Jagu Sir for Santali Smart Study with Ol Chiki support and offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
